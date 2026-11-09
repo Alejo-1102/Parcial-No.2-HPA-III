@@ -1,4 +1,4 @@
-# Laboratorio # [Número] - Login de Usuario en Capas con C# y MySQL
+# Parcial # 2 - Login de Usuario en Capas con C# y MySQL
 
 📅 Fecha: [11/08/2026]
 
